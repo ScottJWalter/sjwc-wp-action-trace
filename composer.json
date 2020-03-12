@@ -1,0 +1,13 @@
+{
+    "name": "scottjwalter/sjwc-wp-action-trace",
+    "description": "Trace all actions",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Scott J. Walter",
+            "email": "scott@scottjwalter.consulting"
+        }
+    ],
+    "require": {}
+}
